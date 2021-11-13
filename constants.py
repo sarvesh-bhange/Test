@@ -1,1 +1,2 @@
 WIDTH = 100
+HEIGHT = 200
